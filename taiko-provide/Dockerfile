@@ -1,1 +1,1 @@
-FROM gcr.io/evmchain.katla-proverd:latest
+FROM gcr.io/evmchain/katla-proverd:latest
